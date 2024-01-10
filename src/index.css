@@ -1,0 +1,20 @@
+
+body {
+  margin: 0;
+  font-family: 'Roboto',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(255, 248, 236);
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  /* color: rgb(249, 239, 206); */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
