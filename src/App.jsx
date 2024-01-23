@@ -4,12 +4,12 @@ import React from 'react';
 
 function App() {
   return (
-   <React.Fragment>
-    <ThemeProvider>
-    <Home/>
-    </ThemeProvider>
+    <React.Fragment>
+      <ThemeProvider>
+        <Home />
+      </ThemeProvider>
 
-   </React.Fragment>
+    </React.Fragment>
   );
 }
 
